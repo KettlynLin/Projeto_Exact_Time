@@ -1,0 +1,126 @@
+@media (max-width: 575.98px) { 
+    /*NavBar1*/
+    #form{
+        width: 300px;
+    }
+
+    #botao{
+        left: 68%;  
+    }
+
+    #primeiraNavBar a{
+        position: relative;
+        bottom: 50%;  
+        margin: 0%;
+        padding: 0%;
+    }
+
+    /*main*/
+
+    #containerPrincipal{
+        margin-bottom: 40px;
+    }
+
+    #primeiraRow{
+        margin: 0%;
+    }
+
+    #caixaDeTexto{
+        font-size: 15px;
+    }
+
+    #caixaDeTexto h5{
+        font-size: 30px;
+    }
+
+    #cards{      
+        display: block;
+        position: relative;
+        left: 0%;
+        right: 0%;
+        width: 100%;
+        margin: 0%;
+        padding: 0%;
+    }
+
+    .card{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    #card1, #card2, #card3{
+        width: 100%;     
+    }
+
+    #relogio1, #relogio2, #relogio3{
+        position: relative;
+        display: block;
+        left: 80%;
+        width: 11%;
+    }
+
+    /*Segunda parte do main*/
+
+    #bestSellers{
+        margin-top: 50px;
+    }
+
+    #bestSellersItens{
+       position: relative;
+       display: block;
+    }
+
+    #best1, #best2, #best3, #best4{
+        margin-bottom: 5px;
+    }
+
+    #imgBest1, #imgBest2, #imgBest3, #imgBest4{
+        height: 40%;
+    }
+
+    #textoBest h5{
+        font-size: 12px;
+    }
+
+    #imgProp{
+        width: 31%;
+        left: 90%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    #textProp{
+        text-align:left;
+    }
+
+    #textProp h1{
+        font-size: 50px;
+    }
+
+    /*Footer*/
+    #cardsFinais{
+        display: block;
+    }
+
+    #cardFooter1, #cardFooter2, #cardFooter3{
+        width: 100%;
+    }
+
+    #img1, #img2, #img3, #img4, #img5, #img6{
+        width: 50%;
+        height: 200px;
+    }
+
+    #img{
+        margin-bottom: 0px;
+    }
+
+    #text{
+        padding-top: 0px;
+    }
+    
+    #textDireitos{
+        left: 0%;
+    }
+
+}
